@@ -1,0 +1,6 @@
+/*.exe
+*.exe
+*/.vscode/*
+
+# Ignore all local history of files
+**/.history
