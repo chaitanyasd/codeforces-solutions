@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "xiosbase": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp"
+    }
+}
